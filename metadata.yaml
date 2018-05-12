@@ -1,0 +1,42 @@
+_repo: Men-of-Our-TimesLeading-Patriots-of-The-Day_46347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46347-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_issued: '2014-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46347'
+  lccn: 06006492
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Biography'
+- !lcc 'E456'
+tableOfContents: Abraham Lincoln -- Ulysses S. Grant -- William Lloyd Garrison --
+  Charles Sumner -- Salmon P. Chase -- Henry Wilson -- Horace Greeley -- David G.
+  Farragut -- John A. Andrew -- Schuyler Colfax -- Edwin M. Stanton -- Frederick Douglass
+  -- Philip H. Sheridan -- William T. Sherman -- Oliver O. Howard -- William A. Buckingham
+  -- Wendell Phillips -- Henry Ward Beecher.
+title: "Men of Our Times; Or, Leading Patriots of the Day\r\nBeing narratives of the\
+  \ lives and deeds of statesmen, generals, and orators. Including biographical sketches\
+  \ and anecdotes of Lincoln, Grant, Garrison, Sumner, Chase, Wilson, Greeley, Farragut,\
+  \ Andrew, Colfax, Stanton, Douglass, Buckingham, Sherman, Sheridan, Howard, Phillips\
+  \ and Beecher."
+url: http://www.gutenberg.org/ebooks/46347
